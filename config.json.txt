@@ -1,0 +1,7 @@
+{
+  "api_url": "https://qrng.anu.edu.au/API/jsonI.php?length=1&type=hex16&size=3",
+  "timeout": 4,
+  "max_retries": 3,
+  "gui_width_ratio": 0.5,
+  "gui_height_ratio": 0.5
+}
